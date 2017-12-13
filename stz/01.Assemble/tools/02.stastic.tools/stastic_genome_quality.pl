@@ -1,0 +1,1 @@
+/home/user105/project/stz/01.Assemble/00.result/stastic_genome_quality.pl
