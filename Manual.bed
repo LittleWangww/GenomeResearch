@@ -1,1 +1,2 @@
 <<<<<<<<<<How to Use these Script>>>>>>>>>>
+stastic_genome_quality.pl: 统计基因组信息<输入genome.fa><输出>
